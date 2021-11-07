@@ -2,9 +2,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container-fluid">
-        <a className="navbar-brand" href="#">
-          Navbar
-        </a>
+        <a className="navbar-brand">Navbar</a>
 
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <form className="d-flex ms-auto">
